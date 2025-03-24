@@ -19,12 +19,8 @@ This project presents an interactive **Power BI Dashboard** that visualizes insu
   ├── dashboard/
   │   ├── insurance_dashboard.pbix  # Power BI file
   │   ├── screenshots/   # Store dashboard images here
-  ├── docs/
-  │   ├── installation_guide.md  # Steps to set up the project
-  │   ├── dashboard_features.md  # Explanation of dashboard features
   ├── README.md  # Main project documentation
   ├── LICENSE  # Open-source license file
-  ├── .gitignore  # Exclude unnecessary files
 ```
 ```
 bash
