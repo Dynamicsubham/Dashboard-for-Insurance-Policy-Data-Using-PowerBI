@@ -49,7 +49,12 @@ Refresh the dashboard to see updated insights.
 🎥 Screenshots
 📌 Dashboard Overview
 
+![Dashboard](https://github.com/Dynamicsubham/Dashboard-for-Insurance-Policy-Data-Using-PowerBI/blob/master/Dashboard/Screenshot%201.png)
+
 📌 Filter by Policy Number
+
+![Filter-Policy](https://github.com/Dynamicsubham/Dashboard-for-Insurance-Policy-Data-Using-PowerBI/blob/master/Dashboard/Screenshot%202.png)
+
 
 🚀 Usage
 Open Power BI and load the .pbix file.
